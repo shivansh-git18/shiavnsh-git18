@@ -7,7 +7,7 @@ Data Analyst | Machine Learning Enthusiast | Generative AI Learner
 <p align="center">
 B.Tech Final Year Student at MNNIT Allahabad
 </p>
-## 🚀 About Me
+🚀 About Me
 
 🔹 B.Tech Final Year Student at MNNIT Allahabad
 
@@ -18,37 +18,41 @@ B.Tech Final Year Student at MNNIT Allahabad
 🔹 Currently learning NLP, Transformers, LangChain, and Generative AI
 
 🔹 Looking for opportunities in Data Analytics and Data Science
-## 🌐 Connect With Me
+🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shivanshkutrip/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:tripathishivanshkumar@gmail.com)
 
-## 💻 Tech Stack
+💻 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https
 
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
+## 📊 GitHub Stats
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+<p align="center">
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+<img src="https://github-readme-stats.vercel.app/api?username=shivansh-git18&show_icons=true&theme=tokyonight" height="180"/>
 
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivansh-git18&theme=tokyonight" height="180"/>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+</p>
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+<p align="center">
 
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh-git18&layout=compact&theme=tokyonight" height="180"/>
 
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge)
+</p>
 
-me= shivansh-git18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 👀 Profile Views
 
----
-[![](https://komarev.com/ghpvc/?username= shivansh-git18&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://komarev.com/ghpvc/?username=shivansh-git18&color=blue)
