@@ -7,6 +7,7 @@ Data Analyst | Machine Learning Enthusiast | Generative AI Learner
 <p align="center">
 B.Tech Final Year Student at MNNIT Allahabad
 </p>
+
 🚀 About Me
 
 🔹 B.Tech Final Year Student at MNNIT Allahabad
@@ -19,11 +20,13 @@ B.Tech Final Year Student at MNNIT Allahabad
 
 🔹 Looking for opportunities in Data Analytics and Data Science
 
+
 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shivanshkutrip/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:tripathishivanshkumar@gmail.com)
+
 
 💻 Tech Stack
 
@@ -38,7 +41,8 @@ B.Tech Final Year Student at MNNIT Allahabad
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https
 
-## 📊 GitHub Stats
+
+📊 GitHub Stats
 
 <p align="center">
 
@@ -54,6 +58,6 @@ B.Tech Final Year Student at MNNIT Allahabad
 
 </p>
 
-## 👀 Profile Views
+👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=shivansh-git18&color=blue)
