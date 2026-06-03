@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivansh Tripathi</h1>
+<h1 align="center">Hi 👋, I'm Shivansh Kumar Tripathi</h1>
 
 <h3 align="center">
 Data Analyst | Machine Learning Enthusiast | Generative AI Learner
