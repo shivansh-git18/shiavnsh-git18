@@ -18,8 +18,8 @@ B.Tech Final Year Student at MNNIT Allahabad
 🔹 Currently learning NLP, Transformers, LangChain, and Generative AI
 
 🔹 Looking for opportunities in Data Analytics and Data Science
-🌐 Connect With Me
 
+🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shivanshkutrip/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:tripathishivanshkumar@gmail.com)
